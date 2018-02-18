@@ -1,8 +1,6 @@
-# A Table of Contents for All WAC Code
+# A Table of Contents for All Gruntwork Code
 
-This repo is a convenient way to find all of the repositories created and maintained by [WAC](http://www.wac.io/). It is intended primarily for WAC's customers.
-
-_Please note that most of the links are private. If you don't have access to them, you'll get a 404 page! To gain access, you must be a WAC customer. See [wac.io](http://www.wac.io/) for more info and feel free to reach out to us at [info@wac.io](mailto:info@wac.io) if you have questions._
+This repo is a convenient way to find all of the repositories created and maintained by [Gruntwork](http://www.gruntwork.io/). It is intended primarily for Gruntworks's customers.
 
 ### Terminology
 
