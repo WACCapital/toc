@@ -1,6 +1,4 @@
-# A Table of Contents for All Gruntwork Code
-
-This repo is a convenient way to find all of the repositories created and maintained by [Gruntwork](http://www.gruntwork.io/). It is intended primarily for Gruntworks's customers.
+# A Table of Contents / TOC / AWS IAC
 
 ### Terminology
 
